@@ -5,7 +5,7 @@ import { Badge } from '@/components/ui/badge'
 export default function AboutUsPage() {
   return (
     <div className="container mx-auto px-4 py-8">
-      <h1 className="text-4xl font-bold mb-8 text-center">About Smith & Smith Realty</h1>
+      <h1 className="text-4xl font-bold mb-8 text-center">About Katzfey Realty Group</h1>
       
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
         <Card>
@@ -14,7 +14,7 @@ export default function AboutUsPage() {
           </CardHeader>
           <CardContent>
             <p className="mb-4">
-              Founded in 1990 by John and Jane Smith, Smith & Smith Realty has been serving the greater Springfield area for over three decades. What started as a small family business has grown into one of the most trusted names in local real estate.
+              Started in __ by _____ has been serving the greater Springfield area for over 5 years. What started as a small family business has grown into one of the most trusted names in local real estate.
             </p>
             <p>
               Our commitment to personalized service, integrity, and deep local knowledge has helped thousands of families find their perfect homes and investors make sound real estate decisions.
@@ -34,9 +34,9 @@ export default function AboutUsPage() {
               height={300}
               className="rounded-full mb-4"
             />
-            <h3 className="text-xl font-semibold mb-2">John and Jane Smith</h3>
+            <h3 className="text-xl font-semibold mb-2">Rick and Donna Katzfey</h3>
             <p className="text-center">
-              With over 40 years of combined experience, John and Jane have been the driving force behind Smith & Smith Realty's success and reputation for excellence.
+              With years of combined experience, Rick and Donna have been the driving force behind some major growth in the NWA markets. This is built upon success and reputation for excellence.
             </p>
           </CardContent>
         </Card>

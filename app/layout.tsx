@@ -15,7 +15,7 @@ export default function RootLayout({
         <header className="bg-primary text-primary-foreground shadow-md">
           <div className="container mx-auto px-4 py-6">
             <nav className="flex flex-col sm:flex-row justify-between items-center">
-              <Link href="/" className="text-3xl font-bold mb-4 sm:mb-0">Smith & Smith Realty</Link>
+              <Link href="/" className="text-3xl font-bold mb-4 sm:mb-0">Katzfey Realty Group</Link>
               <ul className="flex space-x-6 text-lg">
                 <li><Link href="/listings" className="hover:underline">Listings</Link></li>
                 <li><Link href="/about" className="hover:underline">About Us</Link></li>

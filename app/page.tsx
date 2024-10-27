@@ -26,7 +26,7 @@ export default function Home() {
           </div>
           <div className="max-w-md">
             <p className="mb-4">
-              With over 10 years of combined experience, Rick and Donna Katzfey have been helping families find their dream homes in the greater Springfield area. Their dedication, expertise, and personal touch have made them the go-to realtors for hundreds of satisfied clients.
+              With over 10 years of combined experience, Rick and Donna Katzfey have been helping families find their dream homes in the greater North West Arkansas (NWA) area. Their dedication, expertise, and personal touch have made them the go-to realtors for hundreds of satisfied clients.
             </p>
             <Button asChild variant="link">
               <Link href="/about">Learn More About Us</Link>
@@ -45,7 +45,7 @@ export default function Home() {
               </div>
               <div className="p-4">
                 <h3 className="font-bold mb-2">Beautiful Family Home</h3>
-                <p className="text-muted-foreground mb-2">123 Main St, Springfield</p>
+                <p className="text-muted-foreground mb-2">123 Main St, Cave Springs</p>
                 <p className="font-bold">$299,000</p>
               </div>
             </div>

@@ -18,7 +18,7 @@ export default function RootLayout({
               <Link href="/" className="text-3xl font-bold mb-4 sm:mb-0">Katzfey Realty Group</Link>
               <ul className="flex space-x-6 text-lg">
                 <li><Link href="/listings" className="hover:underline">Listings</Link></li>
-                <li><Link href="/about" className="hover:underline">About Us</Link></li>
+                <li><Link href="/aboutus" className="hover:underline">About Us</Link></li>
                 <li><Link href="/contact" className="hover:underline">Contact</Link></li>
                 <li><Link href="/saved" className="hover:underline">Saved Homes</Link></li>
                 <li><Link href="/financing" className="hover:underline">Financing</Link></li>
